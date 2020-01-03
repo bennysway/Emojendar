@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <path
+        android:fillColor="#fbbf67"
+        android:pathData="M0 0h64v64H0z" />
+    <path
+        android:fillColor="#f15744"
+        android:fillAlpha=".7"
+        android:strokeAlpha=".7"
+        android:strokeWidth="1"
+        android:pathData="M0 0h64v64H0z" />
+    <path
+        android:fillColor="#62727a"
+        android:pathData="M48 45.7h16V64H44V49.7c0-2.2 1.8-4 4-4" />
+    <path
+        android:fillColor="#d0d0d0"
+        android:pathData="M60.8 49h0.4c0.4 0 0.8 0.4 0.8 1v14h-2V50c0-0.6 0.4 -1 0.8-1M55.8 49h0.4c0.4 0 0.8 0.4 0.8 1v14h-2V50c0-0.6 0.4 -1 0.8-1" />
+    <path
+        android:fillColor="#62727a"
+        android:pathData="M51.3 43h11v2.9h-11zM0 43.1h13.1v-5.2L0 40.9z" />
+    <path
+        android:fillColor="#62727a"
+        android:pathData="M0 43h13v21H0z" />
+    <path
+        android:fillColor="#ed4c5c"
+        android:pathData="M9.5 51c0 0.5-0.4 1-1 1h-3c-0.6 0-1-0.5-1-1v-2c0-0.6 0.4 -1 1-1h3c0.6 0 1 0.4 1 1v2M9.5 59c0 0.5-0.4 1-1 1h-3c-0.6 0-1-0.5-1-1v-2c0-0.6 0.4 -1 1-1h3c0.6 0 1 0.4 1 1v2" />
+    <path
+        android:fillColor="#3e4347"
+        android:pathData="M50 38v-4l-6-2V21h-2v11l-6 2v4h-3v-7.7L23 19 13 30.3V64h40V38z" />
+    <path
+        android:fillColor="#6adbc6"
+        android:pathData="M41.5 45c0 0.5-0.5 1-1 1h-3c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h3c0.5 0 1 0.4 1 1v2M49.5 53c0 0.5-0.5 1-1 1h-3c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h3c0.5 0 1 0.4 1 1v2M41.5 61c0 0.5-0.5 1-1 1h-3c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h3c0.5 0 1 0.4 1 1v2M49.5 61c0 0.5-0.5 1-1 1h-3c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h3c0.5 0 1 0.4 1 1v2" />
+    <path
+        android:fillColor="#ffdd7d"
+        android:pathData="M30 43c0 0.5-0.5 1-1 1H17c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h12c0.5 0 1 0.4 1 1v2M30 59c0 0.5-0.5 1-1 1H17c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h12c0.5 0 1 0.4 1 1v2M30 35c0 0.5-0.5 1-1 1H17c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h12c0.5 0 1 0.4 1 1v2M30 51c0 0.5-0.5 1-1 1H17c-0.5 0-1-0.5-1-1v-2c0-0.6 0.5 -1 1-1h12c0.5 0 1 0.4 1 1v2" />
+</vector>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <path
+        android:fillColor="#94989b"
+        android:pathData="M24.6 54.3l-4.8-4.8c-6.1-6.1-2.2-10.4-2.2-10.4L13 34.5s-7.6 8.8 1.1 17.4l6.4 6.4 4.1-4M33.7 44h7.2c4.8-10.9-1.6-24.6-1.7-24.9L33.4 22c0 0.1 4.7 13.7 0.3 22" />
+    <path
+        android:fillColor="#333"
+        android:pathData="M44.6 47c-1.5-4.7-5.9-8.1-11.1-8.1-5.2 0-9.6 3.4-11.1 8.1l-5.2 15h32.6l-5.2-15M19.2 27.1L43.8 6.2l6.3 7.3-24.6 20.9z" />
+    <path
+        android:fillColor="#94989b"
+        android:pathData="M24.3 33.1l-4-4.7-1.9 2.5 3.2 3.7zM51.4 10.1l-4-4.7-2.5 2.1 4 4.7z" />
+    <path
+        android:fillColor="#333"
+        android:pathData="M52.5 11.4l-6.3-7.3L48.7 2 55 9.4z" />
+    <path
+        android:fillColor="#d0d0d0"
+        android:pathData="M43.3 25.8c-1.2 3.4-4.9 5.1-8.3 3.9-3.4-1.2-5.2-4.9-4-8.2 1.2-3.3 4.9-5.1 8.3-3.9 3.4 1.2 5.2 4.9 4 8.2" />
+    <path
+        android:fillColor="#d0d0d0"
+        android:pathData="M 33.5 44 C 37.0898508739 44 40 46.8653776011 40 50.4 C 40 53.9346223989 37.0898508739 56.8 33.5 56.8 C 29.9101491261 56.8 27 53.9346223989 27 50.4 C 27 46.8653776011 29.9101491261 44 33.5 44 Z" />
+    <path
+        android:fillColor="#333"
+        android:pathData="M36.2 26.7c1.7 0.6 3.5-0.3 4.1-2 0.6-1.7-0.3-3.5-2-4.1-1.7-0.6-3.5 0.3 -4.1 2-0.6 1.6 0.3 3.5 2 4.1" />
+    <path
+        android:fillColor="#333"
+        android:pathData="M 33.5 47.2 C 35.2673111995 47.2 36.7 48.6326888005 36.7 50.4 C 36.7 52.1673111995 35.2673111995 53.6 33.5 53.6 C 31.7326888005 53.6 30.3 52.1673111995 30.3 50.4 C 30.3 48.6326888005 31.7326888005 47.2 33.5 47.2 Z" />
+    <path
+        android:fillColor="#333"
+        android:pathData="M8.966 31.682l1.13-1.132L21.63 42.07l-1.13 1.132z" />
+    <path
+        android:fillColor="#29abe2"
+        android:pathData="M10.174 30.528l1.13-1.132 11.535 11.52-1.131 1.131z" />
+</vector>

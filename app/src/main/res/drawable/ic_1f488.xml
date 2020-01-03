@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <path
+        android:fillColor="#d8e0e0"
+        android:pathData="M19.3 18.9h25.4v38H19.3z" />
+    <path
+        android:fillColor="#428bc1"
+        android:pathData="M20.9 23.9V18c7.4-1.8 22.2-4.7 22.2-4.7-7.4 1.8-14.8 8.8-22.2 10.6" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M20.9 29.5v-5.9c7.4-1.8 14.8-8.8 22.2-10.6v5.9c-7.4 1.8-14.8 8.8-22.2 10.6" />
+    <path
+        android:fillColor="#ed4c5c"
+        android:pathData="M20.9 35.2v-5.9c7.4-1.8 14.8-8.8 22.2-10.6v5.9c-7.4 1.7-14.8 8.7-22.2 10.6" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M20.9 40.8v-5.9c7.4-1.8 14.8-8.8 22.2-10.6v5.9C35.7 32 28.3 39 20.9 40.8" />
+    <path
+        android:fillColor="#428bc1"
+        android:pathData="M20.9 46.3v-5.9c7.4-1.8 14.8-8.8 22.2-10.6v5.9c-7.4 1.8-14.8 8.8-22.2 10.6" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M20.9 52v-5.9c7.4-1.8 14.8-8.8 22.2-10.6v5.9c-7.4 1.7-14.8 8.7-22.2 10.6" />
+    <path
+        android:fillColor="#ed4c5c"
+        android:pathData="M20.9 57.6v-5.9c7.4-1.8 14.8-8.8 22.2-10.6V47c-7.4 1.8-14.8 8.8-22.2 10.6" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M24.1 61.3c0-2-3.2-2-3.2-4 7.4-1.8 14.8-8.8 22.2-10.6v5.9c-7.4 1.8-11.6 6.9-19 8.7" />
+    <path
+        android:fillColor="#428bc1"
+        android:pathData="M29.8 58.9c4.4-2.6 8.9-5.6 13.3-6.6v5.9c-7.4 1.7-16.3 2.4-13.3 0.7" />
+    <path
+        android:fillColor="#b0b8b8"
+        android:pathData="M45 13.8H19c0-15.7 26-15.7 26 0" />
+    <path
+        android:fillColor="#c1c9c9"
+        android:pathData="M47 17.6c0 1-0.9 1.8-2 1.8H19c-1.1 0-2-0.8-2-1.8v-1.9c0-1 0.9-1.8 2-1.8h26c1.1 0 2 0.8 2 1.8v1.9M47 60.2c0 1-0.9 1.8-2 1.8H19c-1.1 0-2-0.8-2-1.8v-1.9c0-1 0.9-1.8 2-1.8h26c1.1 0 2 0.8 2 1.8v1.9" />
+</vector>
