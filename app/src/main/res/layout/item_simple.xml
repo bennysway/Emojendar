@@ -15,11 +15,56 @@
             android:id="@+id/imageView"
             android:layout_width="0dp"
             android:layout_height="0dp"
+            android:src="@drawable/ic_1f201"
             app:layout_constraintBottom_toTopOf="@+id/textView"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_weight="4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:alpha="0.0"
+            android:background="@drawable/a_rounded_box_hollow"
+            android:padding="15dp"
+            android:textSize="40sp"
+            android:layout_marginTop="@dimen/text_margins"
+            android:layout_marginEnd="@dimen/text_margins"
+            android:rotation="25"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginRight="@dimen/text_margins" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:alpha="0.0"
+            android:padding="15dp"
+            android:background="@drawable/a_rounded_box_hollow"
+            android:textSize="40sp"
+            android:layout_marginTop="@dimen/text_margins"
+            android:layout_marginStart="@dimen/text_margins"
+            android:layout_marginEnd="@dimen/text_margins"
+            android:rotation="-25"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginRight="@dimen/text_margins" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Neutral"
+            android:alpha="0.0"
+            android:padding="15dp"
+            app:layout_constraintLeft_toLeftOf="@id/imageView"
+            app:layout_constraintRight_toRightOf="@id/imageView"
+            android:background="@drawable/a_rounded_box_hollow"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toBottomOf="@id/imageView" />
+
 
         <TextView
             android:id="@+id/textView"
@@ -33,7 +78,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView"
             app:layout_constraintVertical_weight="1"
-            tools:text="Number" />
+            tools:text="Emoji Name" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

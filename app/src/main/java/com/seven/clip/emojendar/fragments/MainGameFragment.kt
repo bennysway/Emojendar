@@ -42,9 +42,22 @@ class MainGameFragment :Fragment(){
         recyclerView.setOnSwipeListener(object :
             OnSwipeListener {
             override fun onChangeHorizontalDrag(direction: Int, percent: Float) {
+                when (direction) {
+                    SWIPE_LEFT -> {
+                    }
+                    SWIPE_RIGHT -> {
+                    }
+
+                }
             }
 
             override fun onChangeVerticalDrag(direction: Int, percent: Float) {
+                when (direction) {
+                    SWIPE_TOP -> {
+                    }
+                    SWIPE_BOTTOM -> {
+                    }
+                }
             }
 
             override fun onSwiped(position: Int, direction: Int) {
